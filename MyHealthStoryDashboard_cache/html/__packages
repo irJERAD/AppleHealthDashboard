@@ -1,0 +1,8 @@
+base
+flexdashboard
+dplyr
+ggplot2
+lubridate
+XML
+plotly
+wesanderson
